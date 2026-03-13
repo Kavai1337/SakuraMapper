@@ -1,0 +1,29 @@
+# Build output
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.ipdb
+*.iobj
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.tlog
+*.recipe
+*.log
+
+# Sensitive
+keys.json
